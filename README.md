@@ -95,7 +95,7 @@ Currently developing:
 
 ## 📫 Connect
 
-GitHub: YOUR-GITHUB-USERNAME
+GitHub: vangbotai
 
 I am currently interested in opportunities involving:
 
