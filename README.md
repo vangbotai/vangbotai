@@ -1,16 +1,23 @@
-## Hi there 👋
+Aaron Vang
+Cybersecurity | IT Support | SOC Analyst Aspirant
 
-<!--
-**vangbotai/vangbotai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+IT professional building cybersecurity skills through documentation, research, and security projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certifications:
+- Google Cybersecurity Professional Certificate
+- CompTIA Security+ (In Progress)
+
+Projects:
+- SOC Analyst Playbook
+- Incident Response Documentation
+- Threat Intelligence Research
+
+Skills:
+- Windows
+- Linux
+- Networking
+- SIEM Concepts
+- Security Operations
+- Python
